@@ -1,18 +1,31 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/6dbs_zXm)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=17645429&assignment_repo_type=AssignmentRepo)
-# template_project
+# Nim: 362358302074
+# Nama: Dhafa Firjatullah Hikmal
+# Kelas: 2A TRPL
 
-A new Flutter project.
+Menampilkan Screen Pertama
+![welcome](https://github.com/user-attachments/assets/576c219e-fa17-4b8e-998d-bb215544a380)
+-
 
-## Getting Started
+Menampilkan Sign Up
+![Sign up](https://github.com/user-attachments/assets/3f349c3f-59d3-45df-ae94-b978883fdecc)
+-
 
-This project is a starting point for a Flutter application.
+Menampilkan Sign In
+![Sign In](https://github.com/user-attachments/assets/32d67cb8-b676-4f57-bcfe-220e064c1240)
+-
 
-A few resources to get you started if this is your first Flutter project:
+Menampilkan Halaman Home
+![home](https://github.com/user-attachments/assets/d8886f56-ad4f-48e0-8d46-bf8bf8833a01)
+-
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Menampilkan Messasges
+![messages](https://github.com/user-attachments/assets/0e161f00-0fc0-4702-a24e-451fc1d4bf89)
+-
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Menampilkan Profile
+![Profile](https://github.com/user-attachments/assets/8227ae0f-12f4-4cca-8830-a2ed230bbdb2)
+-
+
+Menampilkan Logout
+![Log out](https://github.com/user-attachments/assets/9e0847d4-e6c3-4422-9516-0d36ccbd314b)
+-

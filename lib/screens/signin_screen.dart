@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'home_screen.dart';
+import 'main_screen.dart'; // Pastikan untuk mengimpor MainScreen
 
 class SignInScreen extends StatelessWidget {
   @override
@@ -43,9 +44,10 @@ class SignInScreen extends StatelessWidget {
             const SizedBox(height: 20),
             ElevatedButton(
               onPressed: () {
-                Navigator.push(
+                // Navigasi ke MainScreen setelah sign in
+                Navigator.pushReplacement(
                   context,
-                  MaterialPageRoute(builder: (context) => HomeScreen()),
+                  MaterialPageRoute(builder: (context) => MainScreen()),  // Ganti ke MainScreen
                 );
               },
               style: ElevatedButton.styleFrom(
@@ -76,6 +78,7 @@ class SignInScreen extends StatelessWidget {
             const SizedBox(height: 20),
             GestureDetector(
               onTap: () {
+                // Arahkan ke Sign Up Screen
               },
               child: const Text(
                 "Don't have an account? Sign Up Now",

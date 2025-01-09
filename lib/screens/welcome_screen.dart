@@ -22,7 +22,7 @@ class WelcomeScreen extends StatelessWidget {
               children: [
                 ElevatedButton(
                   onPressed: () {
-                    Navigator.push(
+                    Navigator.pushReplacement(
                       context,
                       MaterialPageRoute(builder: (context) => SignInScreen()),
                     );
@@ -32,7 +32,7 @@ class WelcomeScreen extends StatelessWidget {
                 SizedBox(width: 10),
                 ElevatedButton(
                   onPressed: () {
-                    Navigator.push(
+                    Navigator.pushReplacement(
                       context,
                       MaterialPageRoute(builder: (context) => SignUpScreen()),
                     );
@@ -47,3 +47,4 @@ class WelcomeScreen extends StatelessWidget {
     );
   }
 }
+

@@ -9,10 +9,12 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Wireframe App',
-      debugShowCheckedModeBanner: false,
-      theme: ThemeData(primarySwatch: Colors.blue),
-      home: WelcomeScreen(),
+      title: 'Flutter App',
+      theme: ThemeData(
+        primarySwatch: Colors.purple,
+      ),
+      home: WelcomeScreen(), // Tampilkan WelcomeScreen pertama kali
     );
   }
 }
+
